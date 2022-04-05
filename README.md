@@ -6,7 +6,7 @@
 
  Construim o aplicație web dedicată anunțurilor pentru joburi care faciliteaza persoanele în cautarea unui loc de muncă, dar și firmele care doresc să își extindă echipa și să atingă un public specializat în domeniul IT.
 
-### Functinalitate
+### Funcționalitate
 
 Utilizatorii platformei se împart în 3 grupe: 
   * Cei în cautarea unui loc de munca
